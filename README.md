@@ -126,8 +126,8 @@ print_rot13.c - contains the function print_R, which handles the conversion spec
 
 Authors
 
-Jane Doe | @Jane_Doe
+Vision Netshokotshoko | @vision800
 
 
 
-John Doe | @John_Doe
+Alawode Attaurrahman | @Alawode22
